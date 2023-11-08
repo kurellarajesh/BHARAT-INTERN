@@ -15,3 +15,20 @@ House price prediction can help the developer determine the selling price of a h
 
 
 ![download](https://github.com/kurellarajesh/BHARAT-INTERN/assets/127079882/c1d17dc7-c45e-426f-9202-5c36af5d7228)
+
+
+
+**IRIS FLOWER CLASSIFICATION:**
+Iris flower classification is a popular machine learning project. The goal is to classify iris flowers into three species based on their sepal and petal measurements: Setosa, Versicolor, Virginica. 
+The iris dataset contains three classes of flowers, each with four features: Sepal length, Sepal width, Petal length, Petal width. 
+The three species of iris can be separated using nonlinear principal component analysis. 
+
+
+
+
+
+
+
+
+![download](https://github.com/kurellarajesh/BHARAT-INTERN/assets/127079882/b43c6b76-aae3-4e7b-9b78-38f569bcf90b)
+
